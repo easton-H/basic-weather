@@ -1,0 +1,13 @@
+.card{
+  border: 1px solid navy;
+  border-radius: 6px;
+  padding: 5px;
+  display: block;
+  flex: 0 1 calc(25% - 5em);
+}
+
+.daily{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
